@@ -1,8 +1,15 @@
 hello there!
 my name is md babla islam.
 welcome to my enc dec script.
+.
+.
+.
+This is the text file to be encrypted.
+.
+.
+.
 khulna
-univeesity
+university
 of
 engineering
 and
@@ -12,5 +19,5 @@ e
 l
 l
 o
-last of all,bye
-see you again.
+thanks for openig this file.
+have a good day.
