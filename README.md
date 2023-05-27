@@ -3,7 +3,7 @@
 Script name: Text file content or password encryptor and decryptor.
 
 Features:
-  1.Encrypt the contents of a text file and save the encrypted file.\n
+  1.Encrypt the contents of a text file and save the encrypted file.
   2.Decrypt that encrypted file at anytime.
   3.Encrypt any password for the safety of your accounts that you use.
   4.You can store the password in a public place(if you want) after you have encrypted it.
