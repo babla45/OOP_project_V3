@@ -31,7 +31,7 @@ Thanks for visiting.
 
 ## FAQ
 
-#### Does it works on windows?
+#### Does it work on windows?
 
 Answer: Yes
 
