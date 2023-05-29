@@ -29,7 +29,7 @@ class encryptFile:public file{
     }
     inp.close();
     outt.close();
-    cout<<"Encrypted file is saved as output.txt";
+    cout<<"\n\nEncrypted file is saved as output.txt\n\n";
   }
 
 };
@@ -53,6 +53,6 @@ class decryptFile:public file{
     }
     inp.close();
     outt.close();
-    cout<<"Decrypted file is saved as decrypted_to_original.txt";
+    cout<<"\n\nDecrypted file is saved as decrypted_to_original.txt\n\n";
   }
 };
